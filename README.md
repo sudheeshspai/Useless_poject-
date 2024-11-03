@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Don't Scame🎯
+# MAZECRAFT🎯
 
 
 ## Basic Details
@@ -12,29 +12,27 @@
 
 ### Project Description
 
-### The Problem (that doesn't exist)
+### Making aware of how cheaply we waste our time
                     
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Made a funny maze game with Steve and Bed he wants to reach the bed. There are 10 levels after all the levels it will show wasted your time successfully  and  a dance of Steve at last with Rick-Roll sound effect. After every levels there would be a sound effect of mario's death
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- Python
+- frameworks and libraries: Pygame: For game development, handling graphics, events, and sounds.
+                                    MoviePy: For video and GIF handling.
+                                    Pillow (PIL): For image processing.
+- copiolot                                                                                
+  
 ### Implementation
 For Software:
 # Installation
-[commands]
 
+1. **Install Python:**
+   - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+2
 # Run
 [commands]
 
