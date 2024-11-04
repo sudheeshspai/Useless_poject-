@@ -24,20 +24,22 @@ For Software:
 - frameworks and libraries: Pygame: For game development, handling graphics, events, and sounds.
                                     MoviePy: For video and GIF handling.
                                     Pillow (PIL): For image processing.
-- copiolot                                                                                
+- copilot                                                                                
   
 ### Implementation
 For Software:
 # Installation
-1.Clone the repo 
+1. Clone the repo 
      ```git clone https://github.com/sudheeshspai/Useless_poject-/```
 2. **Install Python:**
    - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
-3.Install Required Libraries:Use pip to install the required libraries: pygame, moviepy, and Pillow.
+3. Install Required Libraries: Use pip to install the required pygame, moviepy, and Pillow libraries.
     ```pip install pygame moviepy pillow```
+4. resize the gif to 1000 x 600 px(to get actual vibe of game ✈.
+
     
  # Run
-    ```python maze.py```
+    python maze.py
 
 ### Project Documentation
 For Software:
@@ -53,7 +55,7 @@ For Software:
 *Add caption explaining what this shows*
 ### Project Demo
 # Video
-[Add your demo video link here]
+[]
 *Explain what the video demonstrates*
 
 
