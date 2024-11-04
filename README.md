@@ -12,10 +12,9 @@
 
 ### Project Description
 
-### Making aware of how cheaply we waste our time
-                    
+### Made a funny maze game with Steve and Bed he wants to reach the bed. There are 10 levels after all the levels it will show wasted your time successfully  and  a dance of Steve at last with Rick-Roll sound effect. After every levels there would be a sound effect of mario's death and for non mincraft palyers I will explain what is the relationship between Steve and bed when it starts to get night steve wants to go to bed due to evils arise at night(he is [not like us](https://www.youtube.com/watch?v=H58vbez_m4E) he sleaps when he want to sleep) so he want to reach as soon as posible and go to bed bed.                                                                                                                  
 ### The Solution (that nobody asked for)
-Made a funny maze game with Steve and Bed he wants to reach the bed. There are 10 levels after all the levels it will show wasted your time successfully  and  a dance of Steve at last with Rick-Roll sound effect. After every levels there would be a sound effect of mario's death
+Making aware of how cheaply we waste our time.For other information expore the game ( ͡° ͜ʖ ͡°).
 
 ## Technical Details
 ### Technologies/Components Used
@@ -27,7 +26,7 @@ For Software:
 - copilot                                                                                
   
 ### Implementation
-For Software:
+For Software: It is a bisic maze game you should to move right clik right arroew, left left arrow,up up arrow and down down arrow just reach to bed to complete levelm expore other levels  and enjoye ( ͡° ͜ʖ ͡°).    
 # Installation
 1. Clone the repo 
      ```git clone https://github.com/sudheeshspai/Useless_poject-/```
