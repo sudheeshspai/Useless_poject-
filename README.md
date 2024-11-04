@@ -12,7 +12,7 @@
 
 ### Project Description
 
-### Made a funny maze game with Steve and Bed he wants to reach the bed. There are 10 levels after all the levels it will show wasted your time successfully  and  a dance of Steve at last with Rick-Roll sound effect. After every levels there would be a sound effect of mario's death and for non mincraft palyers I will explain what is the relationship between Steve and bed when it starts to get night steve wants to go to bed due to evils arise at night(he is [not like us](https://www.youtube.com/watch?v=H58vbez_m4E) he sleaps when he want to sleep) so he want to reach as soon as posible and go to bed bed.                                                                                                                  
+### Made a funny maze game with Steve and Bed he wants to reach the bed. There are 10 levels after all the levels it will show wasted your time successfully  and  a dance of Steve at last with Rick-Roll sound effect. After every level there would be a sound effect of mario's death and for non mincraft players I will explain what is the relationship between Steve and bed when it starts to get night Steve wants to go to bed due to evils arising at night(he is [not like us](https://www.youtube.com/watch?v=H58vbez_m4E) he sleeps when he want to sleep) so he wants to reach as soon as possible and go to bed.                                                                                                                  
 ### The Solution (that nobody asked for)
 Making aware of how cheaply we waste our time.For other information expore the game ( ͡° ͜ʖ ͡°).
 
@@ -26,7 +26,7 @@ For Software:
 - copilot                                                                                
   
 ### Implementation
-For Software: It is a bisic maze game you should to move right clik right arroew, left left arrow,up up arrow and down down arrow just reach to bed to complete levelm expore other levels  and enjoye ( ͡° ͜ʖ ͡°).    
+For Software: It is a bisic maze game you should to move right clik right arroew, left left arrow,up up arrow and down down arrow just reach to bed to complete levelm expore other levels  and enjoye ( ͡° ͜ʖ ͡°).     
 # Installation
 1. Clone the repo 
      ```git clone https://github.com/sudheeshspai/Useless_poject-/```
@@ -45,17 +45,17 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Maze_path](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/maze.png)                    
-*Add caption explaining what this shows*
+This is how the maze looks like.
 
 ![round over](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/round_ending.png)
-*Add caption explaining what this shows*
+This is how the round over with sound of Mario death.
 
 ![Final thing](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/round_ending.png)
-*Add caption explaining what this shows*
+This is the last seen of the project explore and enjoy ( ͡° ͜ʖ ͡°).
 ### Project Demo
 # Video
-[click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)(in my lap i can't record video i have recorded it in the phone that's why there is some sound proble sorry for that)
-*Explain what the video demonstrates*
+[click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)(in my lap i can't record video i have recorded it in the phone that's why there is some sound problem sorry for that)
+The total game demo is here warning experience the game will be good or you will regret⚠️.
 
 
 ## Team Contributions
