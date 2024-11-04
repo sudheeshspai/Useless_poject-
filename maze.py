@@ -26,7 +26,7 @@ screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT), pygame.FULLSCREE
 pygame.display.set_caption("Mazecraft")
 
 # Load custom font
-custom_font = pygame.font.Font("minecraft-regular.ttf", 48)  # Decreased font size
+custom_font = pygame.font.Font("minecraft-regular.ttf", 28)  # Decreased font size
 small_font = pygame.font.Font("minecraft-regular.ttf", 24)  # Decreased font size
 
 # Load images
@@ -126,7 +126,7 @@ def display_gif_with_text(gif_path, text, duration):
         final_text = custom_font.render(text, True, (255, 0, 0))
         screen.blit(final_text, (SCREEN_WIDTH // 2 - final_text.get_width() // 2, SCREEN_HEIGHT // 2 - final_text.get_height() // 2))
         pygame.display.flip()
-        clip.preview()
+        clip.preview(fullscreen=True)  # Stretch GIF to full screen
         pygame.time.wait(100)
 
 # Main game loop
@@ -134,7 +134,7 @@ def main():
     clock = pygame.time.Clock()
     maze_gen = MazeGenerator(ROWS, COLS)
     level = 1
-    start_ticks = pygame.time.get_ticks()
+    start_ticks = pygame.time.get_ticks()  # Start the timer at the beginning of the game
 
     # Generate initial maze
     maze_gen.generate(1, 1)
@@ -182,16 +182,19 @@ def main():
                 maze_gen.generate(1, 1)
                 maze_gen.place_end()
                 player.rect.topleft = (TILE_SIZE + MARGIN, TILE_SIZE + HEADER_HEIGHT + MARGIN)  # Reset player position
-                start_ticks = pygame.time.get_ticks()  # Reset timer
             else:
                 # Display final message with animation
                 total_time = (pygame.time.get_ticks() - start_ticks) // 1000
-                final_text = custom_font.render(f"Total Time Wasted: {total_time}s\nWasted your time successfully", True, (255, 0, 0))
                 screen.fill((0, 0, 0))
-                screen.blit(final_text, (SCREEN_WIDTH // 2 - final_text.get_width() // 2, SCREEN_HEIGHT // 2 - final_text.get_height() // 2))
+                lines = [f"Wasted your time successfully", f"Total Time Wasted: {total_time}s"]
+                y_offset = SCREEN_HEIGHT // 2 - (len(lines) * custom_font.get_height()) // 2
+                for line in lines:
+                    final_text = custom_font.render(line, True, (255, 0, 0))
+                    screen.blit(final_text, (SCREEN_WIDTH // 2 - final_text.get_width() // 2, y_offset))
+                    y_offset += custom_font.get_height()
                 pygame.display.flip()
                 pygame.time.wait(2000)  # Display the text for 2 seconds
-                display_gif_with_text(gif_path, f"Total Time Wasted: {total_time}s\n, 10")  # Display the GIF and text for 10 seconds
+                display_gif_with_text(gif_path, f"Total Time Wasted: {total_time}s\n", 10)  # Display the GIF and text for 10 seconds
                 pygame.quit()
                 sys.exit()
 
