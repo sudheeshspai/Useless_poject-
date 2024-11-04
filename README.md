@@ -44,13 +44,13 @@ For Software: It is a bisic maze game you should to move right clik right arroew
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Maze_path](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/maze.png)                    
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![round over](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/round_ending.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Final thing](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/round_ending.png)
 *Add caption explaining what this shows*
 ### Project Demo
 # Video
