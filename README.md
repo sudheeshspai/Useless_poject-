@@ -46,13 +46,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Maze_path](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/maze.png)                    
-This is how the maze looks like.
+### This is how the maze looks like.
 
 ![round over](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/round_ending.png)
-This is how the round over with sound of Mario death.
+### This is how the round over with thesound of Mario death.
 
-![Final thing](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/round_ending.png)
-This is the last seen of the project explore and enjoy ( ͡° ͜ʖ ͡°).
+![Final thing](https://github.com/sudheeshspai/Useless_poject-/blob/main/game_pic/lastseen.png)
+### This is the last seen of the project explore and enjoy ( ͡° ͜ʖ ͡°).
 ### Project Demo
 # Video
 [click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)(in my lap i can't record video i have recorded it in the phone that's why there is some sound problem sorry for that)
