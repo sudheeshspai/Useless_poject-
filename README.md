@@ -35,7 +35,7 @@ For Software:
    - Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 3. Install Required Libraries: Use pip to install the required pygame, moviepy, and Pillow libraries.
     ```pip install pygame moviepy pillow```
-4. resize the gif to 1000 x 600 px(to get actual vibe of game ✈.
+4. resize the gif to 1000 x 600 px(to get actual vibe of game (due to minimum size problem that gif can't be added in github) or [clik here to get gif](https://drive.google.com/file/d/13KD_HAAAXVDvLrzwB14kvoD7X6j9O7lX/view?usp=sharing) ✈.
 
     
  # Run
@@ -55,7 +55,7 @@ For Software:
 *Add caption explaining what this shows*
 ### Project Demo
 # Video
-[]
+[click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)(in my lap i can't record video i have recorded it in the phone that's why there is some sound proble sorry for that)
 *Explain what the video demonstrates*
 
 
