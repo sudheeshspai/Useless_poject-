@@ -1,5 +1,5 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
-
+click here to watch the how mazecraft game works [video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)
 # MAZECRAFT🎯
 
 
