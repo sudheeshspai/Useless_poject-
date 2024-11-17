@@ -5,7 +5,8 @@
 
 ## Basic Details
 ### Team Name: Website/CVE
-
+# Host link(There is some EXE problem and showing error I can't  host so I am uploading video) 
+[click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)
 
 ### Team Members
 - Team Lead: Sudheesh. S. Pai (Muthoot Institute of Technology and Science)
