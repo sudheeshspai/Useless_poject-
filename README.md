@@ -1,12 +1,17 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # MAZECRAFT🎯
+## Host link(There is some EXE problem and showing error If this EXE file is not accessible check the video below)
+[Mazecraft game](https://mazecraft.itch.io/mazecraft)
 
+[click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)
+
+
+### Team Members
 
 ## Basic Details
 ### Team Name: Website/CVE
 ### Host link(There is some EXE problem and showing error I can't  host so I am uploading video) 
-[click here to watch the mazecraft video](https://drive.google.com/file/d/1LcO1YDhOK8L204hPQoyqkFLXcPWA__Cl/view?usp=sharing)
 
 ### Team Members
 - Team Lead: Sudheesh. S. Pai (Muthoot Institute of Technology and Science)
